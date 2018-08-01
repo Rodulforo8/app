@@ -1,0 +1,34 @@
+
+#container {
+background-color: rgb(201, 201, 201);
+width           : 100%;
+        }
+        
+        
+#container_logo {
+color           : white;
+font-weight     : bold;
+background-color: rgba(148, 9, 9, 0.808);
+width           : 100%;
+    }
+
+
+#container_general {
+
+background-color: rgb(228, 233, 236);
+width           : 70%;
+    }
+
+    #container_navbar{
+        color           : white;
+        font-weight     : bold;
+        background-color: rgba(148, 9, 9, 0.808);
+
+    }
+
+    #container_footer{
+
+background-color: rgba(148, 9, 9, 0.808);
+
+    }
+   
