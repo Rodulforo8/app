@@ -2,16 +2,17 @@
 #container {
 background-color: rgb(201, 201, 201);
 width           : 100%;
+font-weight     : bold;
         }
         
         
 #container_logo {
 color           : white;
 font-weight     : bold;
-background-color: rgba(148, 9, 9, 0.808);
+background-color: rgb(114, 40, 40);
 width           : 100%;
     }
-
+ 
 
 #container_general {
 
@@ -22,13 +23,13 @@ width           : 70%;
     #container_navbar{
         color           : white;
         font-weight     : bold;
-        background-color: rgba(148, 9, 9, 0.808);
+        background-color: rgb(114, 40, 40);
 
     }
 
     #container_footer{
-
-background-color: rgba(148, 9, 9, 0.808);
-
+        color           : white;
+        background-color: rgb(114, 40, 40);
+        font-weight     : bold;
     }
    
